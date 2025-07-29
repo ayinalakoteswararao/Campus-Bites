@@ -139,7 +139,7 @@ Open an issue or fork and create a PR. Please ensure your changes follow best pr
 ## 🧑‍💻 Maintainer
 
 > **Ayinala Koteswara Rao**
-> 🌐 Connect: [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ayinala-koteswararao-711bab271/)) | 📧 [email@example.com](mailto:ayinalakoteswararao15@gmail.com)
+> 🌐 Connect: [[LinkedIn](https://www.linkedin.com/in/ayinala-koteswararao-711bab271/)]([https://www.linkedin.com/](https://www.linkedin.com/in/ayinala-koteswararao-711bab271/)) | 📧 [mailto:ayinalakoteswararao15@gmail.com](mailto:ayinalakoteswararao15@gmail.com)
 
 ---
 
