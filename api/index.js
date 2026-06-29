@@ -4,10 +4,10 @@ const mongoose = require('mongoose');
 const bcrypt = require('bcryptjs');
 const cors = require('cors');
 
-const User = require('./User');
-const FoodItem = require('./FoodItem');
-const Order = require('./Order');
-const Owner = require('./Owners');
+const User = require('../User');
+const FoodItem = require('../FoodItem');
+const Order = require('../Order');
+const Owner = require('../Owners');
 const app = express();
 app.use(express.json());
 
